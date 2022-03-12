@@ -720,11 +720,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Template_3D
   metroPackageVersion: 
-  metroCertificatePath: 
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 801bd2033155d901
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: 
@@ -786,7 +786,7 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 0
+  activeInputHandler: 1
   cloudProjectId: 
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
